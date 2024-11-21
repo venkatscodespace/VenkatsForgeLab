@@ -7,5 +7,5 @@ int main()
 	printf("Decimal: %d",N);
 	printf("\nHexadecimal: %X",N);
 	printf("\nOctal: %o",N);
-  return ;
+  return 0;
 }
