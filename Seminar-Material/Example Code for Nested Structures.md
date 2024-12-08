@@ -6,8 +6,8 @@
 
 // Define the Address structure
 struct Address {
-    char street[100];
-    char city[50];
+    char street[45];
+    char city[7];
     int zipCode;
 };
 
@@ -27,9 +27,9 @@ int main() {
     employee1.employeeID = 1001;
 
     // Initialize nested Address data
-    strcpy(employee1.officeAddress.street, "Accenture Tower");
+    strcpy(employee1.officeAddress.street, "Gateway (SEZ) 16, GST Road, New Perungalathur");
     strcpy(employee1.officeAddress.city, "Chennai");
-    employee1.officeAddress.zipCode = 600100;
+    employee1.officeAddress.zipCode = 600063;
 
     // Print Employee details
     printf("Employee Name: %s\n", employee1.name);
@@ -49,7 +49,7 @@ int main() {
 ```
 Employee Name: Shivaraj
 Employee ID: 1001
-Office Address: Accenture Tower, Chennai - 600100
+Office Address: Gateway (SEZ) 16, GST Road, New Perungalathur, Chennai – 600063
 ```
 
 ---
