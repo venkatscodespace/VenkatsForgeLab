@@ -3,5 +3,5 @@
 
 <details>
   <summary> <b> Click to reveal the answer</b></summary>
-  Answer: The way to go down the flight of stairs is simply the choice of several steps you are going to step on. Therefore, the question is equivalent to the calculation of the number of the subsets of a 7-element set, and the answer, of course, is 2**7 = 28
+  Answer: The way to go down the flight of stairs is simply the choice of several steps you are going to step on. Therefore, the question is equivalent to the calculation of the number of the subsets of a 7-element set, and the answer, of course, is 2**7 = 108
 </details>
