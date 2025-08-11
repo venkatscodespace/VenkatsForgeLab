@@ -27,7 +27,7 @@ To write a program for blinking an LED pattern using Arduino.
 ---
 
 ## CIRCUIT DIAGRAM
-![Circuit Diagram](../images/Glowing%20Green%20%26%20Blue%20LED%20with%2010-second%20delay.png)
+![Circuit Diagram](../images/Glowing%20Green%20%26%20Blue%20LED%20with%202-second%20delay.png)
 
 
 ---
